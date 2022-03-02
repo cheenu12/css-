@@ -1,0 +1,180 @@
+
+a:hover
+{
+    background-color: #FDEFF4;
+
+}
+hr
+{
+
+   border: dotted;
+   border-color: #019267;
+   border-width: 6px;
+   border-bottom: none;
+   width: 10%;
+
+}
+h3
+{
+    color: #019267;
+
+}
+a{
+    color: #019267;
+}
+h2{
+    color:#533E85;
+}
+h1{
+    color: #21325E;
+}
+body
+{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+    
+
+
+}
+.cloud
+{
+    position: absolute;
+    left: 200px;
+    top: 300px;
+}
+
+.firstc
+{
+    position: absolute;
+    right: 200px;
+
+
+}
+.topbro
+{
+    padding: 100px;
+    
+    background-color: #EFFFFD;
+    
+
+  
+   
+}
+.com
+{
+  
+margin-top: 30px;
+
+}
+.h1{
+   
+    text-align: center;
+   
+    font-family: 'Sacramento', cursive;
+ font-size: 80px;
+   margin-bottom: 10px;
+  color:42C2FF;
+
+
+
+}
+.h2{
+   
+
+    font-family: 'Sacramento', cursive;
+    font-size: 40px;  
+    margin-top: 0px;
+   font-weight: 500px;
+    margin-bottom: 30px;
+    
+  
+}
+
+/*i am chirag*/
+.div2
+{
+   
+height: 350px;
+
+font-family: 'Montserrat', sans-serif;
+width: 50%;
+margin: auto;
+
+
+}
+
+.img
+{
+    margin-top: 60px;
+}
+.chirag{
+ 
+  
+}
+.bio
+{
+    margin-top: 25px;;
+
+}
+.div3
+{
+   
+    height: 740px;
+
+font-family: 'Montserrat', sans-serif;
+width: 50%;
+margin: auto;
+}
+
+
+.div4
+{
+   
+
+    height: 300px;
+   
+    width: 50%;
+margin: auto;
+}
+.contact{
+    margin-top: 40px;
+}
+.cr
+{
+    line-height: 1;
+
+    margin-top: 50px;
+}
+.myskills
+{
+    position: absolute;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    right: 690px;
+    background-color: aqua;
+    font-family: 'Sacramento', cursive;
+    font-size: 40px;
+   
+   }
+   .myskills:hover{
+      
+       background-color: #FDEFF4;
+   }
+.div5{
+    background-color: #EFFFFD;
+    height: 100px;
+}
+.dk
+{
+    margin-top: 130px;
+}
+.line
+{
+    
+    size: 1px;
+    width: 100%;
+    border: solid #FDEFF4;
+
+}
