@@ -148,20 +148,16 @@ margin: auto;
 }
 .myskills
 {
-    position: absolute;
+   
     margin-bottom: 50px;
     margin-top: 50px;
     margin-bottom: 20px;
-    right: 830px;
-    background-color: aqua;
+       background-color: aqua;
     font-family: 'Sacramento', cursive;
     font-size: 40px;
    
    }
-   .myskills:hover{
-      
-       background-color: #FDEFF4;
-   }
+   
 .div5{
     background-color: #EFFFFD;
     height: 100px;
